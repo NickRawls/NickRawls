@@ -1,6 +1,6 @@
 Hi, I'm Nick!
 
-I'm a Senior Fullstack Engineer currently working on a bunch of different stuff. More details to come late 2023!
+I'm a Senior Fullstack Engineer currently working on a bunch of different stuff. More details to come late 2024!
 
 Connect with me!
 - [LinkedIn](https://www.linkedin.com/in/nick-rawls/)
